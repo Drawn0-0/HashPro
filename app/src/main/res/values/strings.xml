@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HashPro</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="file_title_main">File</string>
+    <string name="md5">MD5</string>
+    <string name="pb_async_cac">Calculating...</string>
+    <string name="pb_async_title">Wait a Moment</string>
+    <string name="et_dialog_hint">Please Enter Value</string>
+    <string name="compare_dialog">Compare</string>
+    <string name="cancel_dialog">Cancel</string>
+    <string name="dialog_title">Compared Hash Value</string>
+    <string name="compare">Compare</string>
+    <string name="result_denied">Read External Storage permission request was denied.</string>
+    <string name="snackbar_request_permission">Set up permission</string>
+    <string name="string_quest_permission">It coundn\'t running without permission</string>
+    <string name="copy_get">Success</string>
+    <string name="copy_no_data">No data</string>
+    <string name="snack_compare">Put into value</string>
+    <string name="textinput_correct">No problem</string>
+    <string name="textinput_notice">It\'s has been modify</string>
+    <string name="tv_generate">Generate</string>
+    <string name="snackbar_no_file">Check up file!</string>
+</resources>

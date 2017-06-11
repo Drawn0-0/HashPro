@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">哈希验算</string>
+    <string name="cancel_dialog">取消</string>
+    <string name="compare">比较</string>
+    <string name="compare_dialog">比较</string>
+    <string name="dialog_title">比较Hash值</string>
+    <string name="et_dialog_hint">请输入要比较的值</string>
+    <string name="file_title_main">文件</string>
+    <string name="md5">MD5</string>
+    <string name="pb_async_title">请稍等</string>
+    <string name="pb_async_cac">正在计算中...</string>
+    <string name="string_quest_permission">没权限，怎么玩？</string>
+    <string name="snackbar_request_permission">设置权限</string>
+    <string name="result_denied">读取权限被拒绝了</string>
+    <string name="snack_compare">请输入要比较的值</string>
+    <string name="textinput_notice">值不等，文件被修改了</string>
+    <string name="textinput_correct">值相同，没有问题</string>
+    <string name="copy_no_data">没有值，复制什么-.-</string>
+    <string name="copy_get">复制完成</string>
+    <string name="tv_generate">生成</string>
+    <string name="snackbar_no_file">没东西啊，算什么？</string>
+</resources>
